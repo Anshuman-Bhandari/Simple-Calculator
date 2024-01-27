@@ -1,0 +1,29 @@
+.text-center {
+    text-align: center;
+}
+
+.container {
+    height: 75%;
+    padding-top: 20px;
+    width: 350px;
+    background: linear-gradient(180deg,
+    rgb(53, 53, 53),
+    rgba(157, 158, 159, 0.702),
+    rgb(106, 107, 101)
+    );
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+.item-centre {
+    align-items: center;
+}
